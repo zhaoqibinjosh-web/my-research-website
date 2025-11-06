@@ -23,7 +23,7 @@ author_notes:
 - ""
 - "*"
 date: "2025-01-01T00:00:00Z"
-doi: ""
+doi: "10.1039/D4CP04395B"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-01T00:00:00Z"
@@ -34,9 +34,10 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Physical Chemistry Chemical Physics"
+publication: "Physical Chemistry Chemical Physics 2025, 27 (6), 3496–3503"
 
-citation: 'Gao2025a'
+abstract: "We study the mechanoresponsive behavior of colloidal photonic crystals, where pressing causes disorder and shear forces restore order, with potential applications in reversible photonic paper and anti-counterfeiting."
+
 featured: false
 
 
