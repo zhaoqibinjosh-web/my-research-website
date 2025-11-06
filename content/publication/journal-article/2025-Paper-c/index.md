@@ -1,5 +1,5 @@
 ---
-title: "M3D printing,mechanoresponsive,photonic crystals,shear assembly"
+title: "Layer‐By‐Layer Shear‐Printing of Bulk Mechanoresponsive Photonic Crystals"
 authors:
 - FengGao
 - JunjunQiu
