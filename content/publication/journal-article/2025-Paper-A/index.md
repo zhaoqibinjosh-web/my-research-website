@@ -36,7 +36,7 @@ publication_types: ["article-journal"]
 # Publication name and optional abbreviated publication name.
 publication: "Physical Chemistry Chemical Physics"
 
-
+citation: 'Gao2025a'
 featured: false
 
 
