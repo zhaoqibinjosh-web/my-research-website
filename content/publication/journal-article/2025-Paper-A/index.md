@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Disappearing and reappearing of structure order in colloidal photonic crystals"
 authors:
 - FengGao
 - XinyuJiang
@@ -11,7 +11,17 @@ authors:
 - Xiuhong Li
 - Tongxiang Fan
 - admin
-
+author_notes:
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- ""
+- "*"
 date: "2025-01-01T00:00:00Z"
 doi: ""
 
