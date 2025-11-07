@@ -8,36 +8,46 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title:  Photonic Crystals
+        content: from core-shell spheres to diverse colloidal systems
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: tour_1.png
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
+      - title: Radiative Cooling
+        content: 'using optimized building blocks'
+        align: center
         background:
           image:
-            filename: contact.jpg
+            filename: tour_2.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
-        align: right
+      - title: Structural Colors in Nature
+        content: 'photonic structures from natural evolution'
+        align: center
         background:
           image:
-            filename: welcome.jpg
+            filename: tour_3.png
             filters:
-              brightness: 0.5
+              brightness: 0.7
           position: center
           color: '#333'
+      - title: Lab Space
+        content: 'designed from scratch'
+        align: center
+        background:
+          image:
+            filename: tour_4.png
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
         link:
           icon: graduation-cap
           icon_pack: fas
