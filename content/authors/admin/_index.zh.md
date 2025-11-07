@@ -1,40 +1,40 @@
 ---
 # Display name
-title: Qibin Zhao
+title: 赵其斌
 
 # Full Name (for SEO)
-first_name: Qibin
-last_name: Zhao
+first_name: 其斌
+last_name: 赵
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Associate Professor
+role: 副教授
 
 # Organizations/Affiliations
 organizations:
-  - name: Shanghai JiaoTong University
+  - name: 上海交通大学
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include colloidal assembly, order and disordered structures for optical and energy related applicaitons, scalable methods for nanomaterial fabrication, biomimetics and evolution.
+bio: 研究兴趣主要集中于胶体光子晶体组装、材料结构规则度调控、规则及不规则结构在不同条件下的演变过程及物理机理、光学材料及能源类材料制备、微纳结构材料的大面积制备方法、自然界中的功能结构及其在跨种演变视角下的生物进化学
 
 interests:
-  - colloidal assembly
-  - soft matter physics
-  - scalable fabrication
+  - 胶体组装
+  - 软物质物理
+  - 结构调控与大面积制备方法
 
 education:
   courses:
-    - course: PhD in Physics
-      institution: University of Cambridge
+    - course: 博士 物理学
+      institution: 剑桥大学
       year: 2015
-    - course: Master in Materials Science
-      institution: Shanghai JiaoTong University
+    - course: 硕士 材料科学
+      institution: 上海交通大学
       year: 2010
-    - course: BSc in Materials Science
-      institution: Shandong Universtiy
+    - course: 学士 材料科学
+      institution: 山东大学
       year: 2007
 
 # Social/Academic Networking
@@ -72,5 +72,5 @@ user_groups:
   - Principal Investigators
 ---
 <p style="text-align: justify;">
-Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai Jiao Tong University. His research focuses on functional materials assembled from nano- and microparticles; scalable methods for nanomaterial fabrication; emergent phenomena and mechanisms in soft condensed matter; and natural photonic structures and their roles in evolution. He developed the bending-induced oscillatory shearing method (BIOS) for photonic crystal assembly during his first year as a PhD student supervised by FRS. Professor Jeremy Baunberg at the University of Cambridge in 2011.
+2018年10月加入上海交通大学材料学院，任职副教授，研究兴趣主要集中于胶体光子晶体组装、材料结构规则度调控、规则及不规则结构在不同条件下的演变过程及物理机理、光学材料及能源类材料制备、微纳结构材料的大面积制备方法、自然界中的功能结构及其在跨种演变视角下的生物进化学。他在 2011 年剑桥大学攻读博士第一年期间提出并发展了用于光子晶体大面积组装的弯曲致振荡剪切（bending-induced oscillatory shearing, BIOS）方法。
 </p>  

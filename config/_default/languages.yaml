@@ -20,3 +20,9 @@ en:
 #      - name: 传
 #        url: '#about'
 #        weight: 1
+# 2. 中文 (Chinese)
+# 这是您要添加的新语言
+zh:
+  languageCode: zh-Hans # "zh-Hans" 代表简体中文
+  title: 赵其斌课题组 # 网站的中文标题
+  weight: 2 # 权重 2 表示第二语言
