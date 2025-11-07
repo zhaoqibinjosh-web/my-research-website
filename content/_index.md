@@ -12,6 +12,7 @@ sections:
         Research Group
       image:
         filename: welcome.jpg
+
       text: |
         <br>
         <p style="text-align: justify;font-size: 90%;">
