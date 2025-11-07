@@ -72,4 +72,4 @@ user_groups:
   - Principal Investigators
 ---
 
-Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai Jiao Tong University. His research focuses on functional materials assembled from nano- and microparticles; scalable methods for nanomaterial fabrication; emergent phenomena and mechanisms in soft condensed matter; and natural photonic structures and their roles in evolution. 
+Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai Jiao Tong University. His research focuses on functional materials assembled from nano- and microparticles; scalable methods for nanomaterial fabrication; emergent phenomena and mechanisms in soft condensed matter; and natural photonic structures and their roles in evolution. He developed the bending-induced oscillatory shearing method (BIOS) for photonic crystal assembly during his first year as a PhD student supervised by FRS. Professor Jeremy Baunberg at the University of Cambridge in 2011.  
