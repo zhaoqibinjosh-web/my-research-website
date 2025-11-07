@@ -8,14 +8,15 @@ sections:
   - block: hero
     content:
       title: |
-        Qibin Zhao
+        Zhao
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
-        
-        Welcome to the Zhao Research Group at Shanghai Jiao Tong University. Founded in late 2018 when Dr. Qibin Zhao joined the faculty, our lab was established in autumn 2020 with support from multiple funding sources. We develop scalable methods for fabricating diverse nano- and microstructured materials and explore novel physical mechanisms in miscellaneous soft-matter systems.
+        <p style="text-align: justify;font-size: 90%;">
+        Welcome to the Zhao Research Group at Shanghai JiaoTong University. Founded in late 2018 when Dr. Qibin Zhao joined the faculty, our lab was established in autumn 2020 with support from multiple funding sources. We develop scalable methods for fabricating diverse nano- and microstructured materials and explore novel physical mechanisms in miscellaneous soft-matter systems.
+        </p>
 
   - block: collection
     content:
