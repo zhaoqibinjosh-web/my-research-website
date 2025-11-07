@@ -1,0 +1,24 @@
+/* assets/css/custom.css */
+
+/* * 在导航栏标题 (navbar-brand) 后面添加 Logo
+ */
+.navbar-brand::after {
+  /* 1. 必须的 CSS 属性 */
+  content: ""; 
+  display: inline-block;
+
+  /* 2. 引用您上传的 Logo 图片 */
+  /* 确保路径与您在 static 文件夹中放置的路径一致 */
+  background-image: url('/media/logo_banner.png');
+
+  /* 3. 设置 Logo 的显示尺寸 */
+  /* 您可以根据 Logo 的实际比例调整这些值 */
+  width: 30px;  /* Logo 的宽度 */
+  height: 30px; /* Logo 的高度 */
+
+  /* 4. 调整外观和位置 */
+  background-size: contain;     /* 确保 Logo 完整显示在上述尺寸内 */
+  background-repeat: no-repeat;
+  vertical-align: middle;     /* 使 Logo 与文字垂直居中对齐 */
+  margin-left: 10px;          /* Logo 与 "Zhao Research Group" 文字之间的间距 */
+}
