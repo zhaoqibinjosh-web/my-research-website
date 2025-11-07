@@ -7,3 +7,27 @@
 .cta-group {
   justify-content: center;
 }
+
+/* 确保 .navbar-brand 不会裁剪掉 ::after 元素 */
+.navbar .navbar-brand {
+    overflow: visible !important; 
+}
+
+.navbar .navbar-brand::after {
+  /* 1. 必须的 CSS 属性 */
+  content: ""; 
+  display: inline-block !important; /* !important 强制生效 */
+
+  /* 2. 引用 Logo 图片 (路径基于 static 文件夹) */
+  background-image: url('/media/logo_banner.png');
+
+  /* 3. 设置 Logo 的显示尺寸 */
+  width: 400px; 
+  height: 60px;
+
+  /* 4. 调整外观和位置 */
+  background-size: contain;
+  background-repeat: no-repeat;
+  vertical-align: middle;
+  margin-left: 10px; /* Logo 和文字的间距 */
+}
