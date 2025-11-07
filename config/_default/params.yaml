@@ -3,6 +3,13 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
+
+# 强制加载自定义 CSS 插件
+plugins:
+  css:
+    - name: 'custom' # 给它一个名字
+      link: 'css/custom.css' # 路径相对于 'assets/' 文件夹
+
 # Appearance
 
 appearance:
