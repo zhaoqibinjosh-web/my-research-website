@@ -5,6 +5,29 @@
 # Default language
 en:
   languageCode: en-us
+  title: Zhao Research Group
+  weight: 1
+  # 英语菜单
+  menu:
+    main:
+      - name: Tour
+        url: tour/
+        weight: 10
+      - name: News
+        url: post/
+        weight: 20
+      - name: People
+        url: people/
+        weight: 30
+      - name: Events
+        url: event/
+        weight: 40
+      - name: Publications
+        url: publication/
+        weight: 50
+      - name: Contact
+        url: contact/
+        weight: 60
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 
@@ -26,3 +49,23 @@ zh:
   languageCode: zh-Hans # "zh-Hans" 代表简体中文
   title: 赵其斌课题组 # 网站的中文标题
   weight: 2 # 权重 2 表示第二语言
+  menu:
+    main:
+      - name: 概览
+        url: tour/
+        weight: 10
+      - name: 动态
+        url: post/
+        weight: 20
+      - name: 团队
+        url: people/
+        weight: 30
+      - name: 活动
+        url: event/
+        weight: 40
+      - name: 论文
+        url: publication/
+        weight: 50
+      - name: 联系方式
+        url: contact/
+        weight: 60
