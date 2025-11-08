@@ -1,5 +1,5 @@
 ---
-title: Lab is ready for use
+title: Lab is ready for use 🎉
 date: 2020-10-30
 ---
 
