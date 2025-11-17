@@ -6,7 +6,7 @@
 watchExclusions:
   - "static/media/"
 title: Zhao Research Group # Website name
-baseURL: 'https://www.qibinzhao.com/' # Website URL
+baseURL: 'https://qibinzhao.com/' # Website URL
 
 ############################
 ## LANGUAGE
