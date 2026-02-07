@@ -16,20 +16,29 @@
 .navbar .navbar-brand::after {
   /* 1. 必须的 CSS 属性 */
   content: ""; 
-  display: inline-block !important; /* !important 强制生效 */
+  display: inline-block !important;
 
-  /* 2. 引用 Logo 图片 (路径基于 static 文件夹) */
+  /* 2. 引用 Logo 图片 */
   background-image: url('/media/logo_banner.png');
 
-  /* 3. 设置 Logo 的显示尺寸 */
+  /* 3. 核心修改：设置默认（电脑端）尺寸 */
   width: 400px; 
   height: 60px;
 
-  /* 4. 调整外观和位置 */
+  /* 4. 调整外观 */
   background-size: contain;
   background-repeat: no-repeat;
   vertical-align: middle;
-  margin-left: 10px; /* Logo 和文字的间距 */
+  margin-left: 10px; 
 }
 
+/* --- 新增：专门针对手机端的修改 --- */
+@media (max-width: 768px) {
+  .navbar .navbar-brand::after {
+    /* 在手机上，强制把宽度改小 */
+    width: 150px !important;  /* 宽度缩小到 150px，适应手机屏 */
+    height: 30px !important;  /* 高度也按比例缩小，防止变形 */
+    margin-left: 5px;         /* 间距也调小一点 */
+  }
+}
 
