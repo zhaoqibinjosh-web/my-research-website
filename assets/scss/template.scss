@@ -33,12 +33,24 @@
 }
 
 /* --- 新增：专门针对手机端的修改 --- */
+/* --- 新增：专门针对手机端的修改 --- */
+/* --- 手机端导航栏防溢出修复 --- */
 @media (max-width: 768px) {
+  /* 1. 限制标题文本容器的最大宽度，给右侧菜单按钮留出 30% 的空间 */
+  .navbar .navbar-brand {
+    max-width: 70% !important; 
+    white-space: normal; /* 允许过长的标题自动换行 */
+    font-size: 16px;     /* 手机上字号稍微调小一点 */
+    line-height: 1.2;
+    display: flex;
+    flex-direction: column; /* 让文字和 Logo 上下排列 */
+  }
+
+  /* 2. 控制你注入的 Logo 图片大小 */
   .navbar .navbar-brand::after {
-    /* 在手机上，强制把宽度改小 */
-    width: 150px !important;  /* 宽度缩小到 150px，适应手机屏 */
-    height: 30px !important;  /* 高度也按比例缩小，防止变形 */
-    margin-left: 5px;         /* 间距也调小一点 */
+    width: 150px !important;  
+    height: 30px !important;  
+    margin-left: 0; 
+    margin-top: 5px; /* 图片和上方文字留出一点间距 */
   }
 }
-
