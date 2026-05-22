@@ -23,7 +23,7 @@ bio: My research focuses on soft functional materials in which mesoscale structu
 interests:
   - mesoscale structure assembly
   - soft matter physics
-  - scalable fabrication
+  - Lab-2-Industry fabrication
 
 education:
   courses:
