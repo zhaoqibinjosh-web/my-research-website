@@ -18,7 +18,7 @@ organizations:
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include colloidal assembly, order and disordered structures for optical and energy related applicaitons, scalable methods for nanomaterial fabrication, biomimetics and evolution.
+bio: My research focuses on soft functional materials in which mesoscale structure controls optical and physical properties. I have worked extensively on colloidal and particle-assembled photonic materials, developing scalable processing methods to organize soft particulate systems into structurally coloured films and coatings. A central theme of my work is how external mechanical fields, such as shear, bending, stretching, and cyclic deformation, can drive microstructural ordering, lattice transitions, and structure-dependent optical responses. More broadly, I am interested in programmable soft photonic materials and functional coatings, where colloidal assembly, deformation processing, and soft-matter physics can be used to create adaptive optical, thermal, sensing, or mechanically encoded material functions.
 
 interests:
   - colloidal assembly
@@ -72,5 +72,5 @@ user_groups:
   - Principal Investigators
 ---
 <p style="text-align: justify;">
-Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai JiaoTong University. His research focuses on functional materials assembled from nano- and microparticles; scalable methods for nanomaterial fabrication; emergent phenomena and mechanisms in soft condensed matter; and natural photonic structures and their roles in evolution. He developed the bending-induced oscillatory shearing method (BIOS) for large-scale photonic crystal assembly as a first year PhD student in Prof. Jeremy Baumberg's group at the University of Cambridge in 2011.
+Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai JiaoTong University. His research focuses on functional materials assembled from nano- and microparticles; scalable methods for nanomaterial fabrication; emergent phenomena and mechanisms in soft condensed matter; and natural photonic structures and their roles in evolution. He developed the bending-induced oscillatory shearing method (BIOS) for large-scale photonic crystal assembly in Prof. Jeremy Baumberg's group at the University of Cambridge in 2011.
 </p>  
