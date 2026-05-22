@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         .
-      email: zhaoqibin@sjtu.edu.cn
+      email: qibin.zhao@cantab.net
       phone: 
       address:
         street: Building D, School of Materials Science and Engineering, Shanghai JiaoTong University, 800 Dongchuan Road, Minhang

@@ -10,7 +10,7 @@ sections:
       title: 联系方式
       text: |-
         .
-      email: zhaoqibin@sjtu.edu.cn
+      email: qibin.zhao@cantab.net
       phone: 
       address:
         street: 上海交通大学材料学院D楼
