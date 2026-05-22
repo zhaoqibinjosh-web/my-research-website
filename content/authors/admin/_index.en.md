@@ -74,7 +74,6 @@ user_groups:
 <p style="text-align: justify;">
 Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai JiaoTong University. His research focuses on soft functional materials in which mesoscale structure controls optical and physical properties. He has worked extensively on colloidal and particle-assembled photonic materials, developing scalable processing methods to organize soft particulate systems into structurally coloured films and coatings. A central theme of his work is how external mechanical fields, such as shear, bending, stretching, and cyclic deformation, can drive microstructural ordering, lattice transitions, and structure-dependent optical responses. More broadly, he is interested in programmable soft photonic materials and functional coatings, where colloidal assembly, deformation processing, and soft-matter physics can be used to create adaptive optical, thermal, sensing, or mechanically encoded material functions. His key achievements include:
  </p>
-
   <ul style="text-align: justify; padding-left: 1.4em; margin-top: 0;">
     <li>
       Developed the bending-induced oscillatory shearing (BIOS) method for
@@ -94,4 +93,3 @@ Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and 
     </li>
   </ul>
 </div>
-
