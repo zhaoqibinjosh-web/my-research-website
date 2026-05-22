@@ -71,25 +71,59 @@ highlight_name: false
 user_groups:
   - Principal Investigators
 ---
-<p style="text-align: justify;">
-Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and Engineering at Shanghai JiaoTong University. His research focuses on soft functional materials in which mesoscale structure controls optical and physical properties. He has worked extensively on colloidal and particle-assembled photonic materials, developing scalable processing methods to organize soft particulate systems into structurally coloured films and coatings. A central theme of his work is how external mechanical fields, such as shear, bending, stretching, and cyclic deformation, can drive microstructural ordering, lattice transitions, and structure-dependent optical responses. More broadly, he is interested in programmable soft photonic materials and functional coatings, where colloidal assembly, deformation processing, and soft-matter physics can be used to create adaptive optical, thermal, sensing, or mechanically encoded material functions. His key achievements include:
- </p>
-  <ul style="text-align: justify; padding-left: 1.4em; margin-top: 0;">
-    <li>
-      Developed the bending-induced oscillatory shearing (BIOS) method for
-      large-scale photonic crystal assembly in Prof. Jeremy Baumberg's group at
-      the University of Cambridge in 2011.
-    </li>
-    <li>
-      Developed the model that describes how colloidally assembled 3D lattices
-      deform in elastic matrices (2022–2024).
-    </li>
-    <li>
-      Developed colloidal photonic pastes as a new platform for photonic crystal
-      assembly (2022–2025).
-    </li>
-    <li>
-      Discovered colloidal crystallization driven by extension (2024–2026).
-    </li>
-  </ul>
-</div>
+<p style="text-align: justify; margin-bottom: 0.2em;">
+  Dr. Qibin Zhao is an Associate Professor in the School of Materials Science and
+  Engineering at Shanghai Jiao Tong University. His research focuses on soft
+  functional materials in which mesoscale structure controls optical and physical
+  properties. He has worked extensively on colloidal and particle-assembled
+  photonic materials, developing scalable processing methods to organize soft
+  particulate systems into structurally coloured films and coatings. A central
+  theme of his work is how external mechanical fields, such as shear, bending,
+  stretching, and cyclic deformation, can drive microstructural ordering, lattice
+  transitions, and structure-dependent optical responses. More broadly, he is
+  interested in programmable soft photonic materials and functional coatings,
+  where colloidal assembly, deformation processing, and soft-matter physics can
+  be used to create adaptive optical, thermal, sensing, or mechanically encoded
+  material functions. His key achievements include:
+</p>
+  <style>
+.profile-achievements {
+  text-align: justify;
+  padding-left: 1.2em;
+  margin-top: 0.2em;
+  margin-bottom: 0;
+  line-height: 1.45;
+  font-size: 0.95em;
+}
+
+.profile-achievements li {
+  margin-bottom: 0.25em;
+  break-inside: avoid;
+}
+
+@media (min-width: 900px) {
+  .profile-achievements {
+    columns: 2;
+    column-gap: 2.2em;
+  }
+}
+</style>
+
+<ul class="profile-achievements">
+  <li>
+    Developed the bending-induced oscillatory shearing (BIOS) method for
+    large-scale photonic crystal assembly in Prof. Jeremy Baumberg's group at
+    the University of Cambridge in 2011.
+  </li>
+  <li>
+    Developed the model that describes how colloidally assembled 3D lattices
+    deform in elastic matrices (2022–2024).
+  </li>
+  <li>
+    Developed colloidal photonic pastes as a new platform for photonic crystal
+    assembly (2022–2025).
+  </li>
+  <li>
+    Discovered colloidal crystallization driven by extension (2024–2026).
+  </li>
+</ul>
